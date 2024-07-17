@@ -7,7 +7,7 @@ Discord: eksartt
 
 - Araç Hiz Limit Kapatıp Açma
 - Araç Hız Limiti Ayarlama
-- Basit Job Ayarlama (Ayarladığınız meslek safezonedan etiklenmiyecek)
+- Basit Job Ayarlama (Ayarladığınız meslek safezonedan etkilenmeyecek)
 - Kordinat İle Basit Bir Şekilde Safezone Ekleme
 - Sağ tık engelleme
 - Yumruk Engelleme
