@@ -1,5 +1,6 @@
 # EksArtt-Safezone
 Güvenli Bölge Scripti
+
 Discord: eksartt
 
 İçindekiler;
