@@ -29,7 +29,7 @@ Citizen.CreateThread(function()
         elseif not inSafezone and wasInSafezone then
             SetEntityInvincible(playerPed, false)
             SetPlayerInvincible(playerPed, false)
-            QBCore.Functions.Notify('Safezone dışında!', 'error', 5000)
+            QBCore.Functions.Notify('Safezone dışındasın!', 'error', 5000)
             wasInSafezone = false
         end
 
